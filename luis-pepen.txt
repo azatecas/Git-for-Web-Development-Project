@@ -41,7 +41,7 @@
     20. How do we select classes in CSS?
         by starting with a .(className)
     21. How do we select a p element with a single class of “human””? 
-        p.human
+        p .human 
     22. What is a parent child selector? When would this be useful?
         a parent child selector targets a specific child element by indicating its parent. it is useful for when there are more than one html elemenets in the document and you only wan to target a specific element and not all similar elements in the document
     23. How do you select all links within a div with the class of sidebar?
